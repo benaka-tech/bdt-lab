@@ -1,0 +1,7 @@
+[debug] > Exec(run "D:\\JAYANTH\\ScalaProg\\src\\main\\scala\\in.txt", None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[success] Total time: 7 s, completed Apr 24, 2021 5:58:44 PM
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

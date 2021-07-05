@@ -1,0 +1,6 @@
+[debug] > Exec(console, None, None)
+[debug] Evaluating tasks: Compile / console
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] Starting scala interpreter...
+[success] Total time: 62 s (01:02), completed May 23, 2021 11:30:21 AM
+[debug] > Exec(idea-shell, None, None)

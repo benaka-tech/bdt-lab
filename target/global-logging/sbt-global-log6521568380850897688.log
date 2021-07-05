@@ -1,0 +1,9 @@
+[debug] > Exec(run D:\\JAYANTH\\ScalaProg\\src\\main\\scala\\in.txt, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[error] Nonzero exit code: 1
+[error] (Compile / run) Nonzero exit code: 1
+[error] Total time: 2 s, completed Apr 18, 2021 11:50:25 AM
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

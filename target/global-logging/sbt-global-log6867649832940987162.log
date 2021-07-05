@@ -1,0 +1,14 @@
+[debug] > Exec(all {file:/D:/JAYANTH/ScalaProg/}scalaprog/products {file:/D:/JAYANTH/ScalaProg/}scalaprog/test:products, None, None)
+[warn] build source files have changed
+[warn] modified files: 
+[warn]   D:\JAYANTH\ScalaProg\build.sbt
+[warn] Apply these changes by running `reload`.
+[warn] Automatically reload the build when source changes are detected by setting `Global / onChangedBuildSource := ReloadOnSourceChanges`.
+[warn] Disable this warning by setting `Global / onChangedBuildSource := IgnoreSourceChanges`.
+[debug] Evaluating tasks: Compile / products, Test / products
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Forcing garbage collection...
+[success] Total time: 2 s, completed May 23, 2021 1:08:57 PM
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

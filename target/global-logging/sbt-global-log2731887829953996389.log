@@ -1,0 +1,7 @@
+[debug] > Exec(all {file:/D:/JAYANTH/ScalaProg/}scalaprog/products {file:/D:/JAYANTH/ScalaProg/}scalaprog/test:products, None, None)
+[debug] Evaluating tasks: Compile / products, Test / products
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[success] Total time: 0 s, completed May 17, 2021 3:30:24 AM
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

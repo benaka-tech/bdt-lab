@@ -1,0 +1,8 @@
+[debug] > Exec(spark-shell, None, None)
+[error] Not a valid command: spark-shell (similar: idea-shell, shell)
+[error] Not a valid project ID: spark-shell
+[error] Expected ':'
+[error] Not a valid key: spark-shell (similar: useSuperShell)
+[error] spark-shell
+[error]            ^
+[debug] > Exec(idea-shell, None, None)

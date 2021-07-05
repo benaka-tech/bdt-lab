@@ -1,0 +1,10 @@
+[debug] > Exec(all {file:/D:/JAYANTH/ScalaProg/}scalaprog/products {file:/D:/JAYANTH/ScalaProg/}scalaprog/test:products, None, None)
+[debug] Evaluating tasks: Compile / products, Test / products
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to D:\JAYANTH\ScalaProg\target\scala-2.11\classes ...
+[info] done compiling
+[debug] Forcing garbage collection...
+[success] Total time: 2 s, completed Jul 5, 2021 11:06:26 AM
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

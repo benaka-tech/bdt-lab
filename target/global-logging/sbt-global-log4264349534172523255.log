@@ -1,0 +1,13 @@
+[debug] > Exec(run "D:\JAYANTH\Scala Prog\src\main\scala\in.txt", None, None)
+[error] Expected 'b'
+[error] Expected 't'
+[error] Expected 'n'
+[error] Expected 'f'
+[error] Expected 'r'
+[error] Expected '"'
+[error] Expected '''
+[error] Expected '\'
+[error] Expected 'u'
+[error] run "D:\JAYANTH\Scala Prog\src\main\scala\in.txt"
+[error]         ^
+[debug] > Exec(idea-shell, None, None)

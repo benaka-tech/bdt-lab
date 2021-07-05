@@ -1,0 +1,11 @@
+[debug] > Exec(all {file:/D:/JAYANTH/ScalaProg/}scalaprog/products {file:/D:/JAYANTH/ScalaProg/}scalaprog/test:products, None, None)
+[debug] Evaluating tasks: Compile / products, Test / products
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to D:\JAYANTH\ScalaProg\target\scala-2.13\classes ...
+[warn] 4 deprecations (since 2.13.0); re-run with -deprecation for details
+[warn] one warning found
+[info] done compiling
+[success] Total time: 9 s, completed May 17, 2021 3:30:08 AM
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)
